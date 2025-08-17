@@ -1,10 +1,14 @@
 # Rupali Dhamgaye
 
-👩‍🎓 4th Year | B.Tech in Metallurgical and Materials Engineering  
-📍 MANIT Bhopal (2026 Pass-out)  
+---
+## 👩‍💻 About Me
+I am **Rupali Dhamgaye**, a 4th-year B.Tech student in **Metallurgical and Materials Engineering** at **MANIT Bhopal** (2026 pass-out).  
+I am passionate about **materials science, welding, corrosion studies, and industrial processes**.  
+Currently, I am exploring opportunities in **research, internships, and projects** where I can apply my technical knowledge and problem-solving skills.  
+
+My goal is to build a strong career in the **materials & metallurgical industry**, contributing to **innovation, sustainable development, and advanced technologies**.
 
 ---
-
 ## 📫 Contact
 - Personal Email: **rupalidhamgaye2022@gmail.com**  
 - College Email: **2211901107@stu.manit.ac.in**  
